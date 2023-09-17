@@ -3,7 +3,6 @@ pydantic
 pandas
 tensorflow
 langchain
-ssl
 urlib
 requests
 bs4
