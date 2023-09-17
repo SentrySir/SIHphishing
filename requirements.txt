@@ -3,7 +3,6 @@ pydantic
 pandas
 tensorflow
 langchain
-urlib
 requests
 bs4
 tldextract
