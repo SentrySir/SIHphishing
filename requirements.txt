@@ -1,1 +1,15 @@
-fastapi[all]
+fastapi
+pydantic
+pandas
+tensorflow
+langchain
+re
+json
+os
+ssl
+urlib
+requests
+bs4
+tldextract
+whois
+datetime
